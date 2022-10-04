@@ -707,7 +707,7 @@
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
-				"You've learned how to dodge while wearing light or no armor. Your proficiency ranks for light armor and unarmored defense increase to expert."
+				"You've learned how to dodge while wearing light or no armor. Your proficiency ranks for medium armor, light armor, and unarmored defense increase to expert."
 			]
 		},
 		{
@@ -773,7 +773,7 @@
 			"classSource": "CRB",
 			"level": 19,
 			"entries": [
-				"Your skill with light armor improves, increasing your ability to dodge blows. Your proficiency ranks for light armor and unarmored defense increase to master."
+				"Your skill with armor improves, increasing your ability to dodge blows. Your proficiency ranks for medium armor, light armor, and unarmored defense increase to master."
 			]
 		}
 	],
