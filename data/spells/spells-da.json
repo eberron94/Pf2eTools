@@ -2703,7 +2703,7 @@
 			"type": "Cantrip",
 			"level": 1,
 			"traits": [
-				"divination"
+				"divination", "cantrip"
 			],
 			"traditions": [
 				"Arcane",
